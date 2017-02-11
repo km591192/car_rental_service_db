@@ -1,0 +1,144 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Carrent.BL" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEAlCAgABACABgAADABAhAAJQkSAAAAgIAABAIIAgAQ=</HashCode>
+      <FileName>BL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Check" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAQAABAICwIAAAAAAAAAAAAAIAAAAgAAAAABAAABA=</HashCode>
+      <FileName>Check.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Checkpassword" Collapsed="true">
+    <Position X="2.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAAQAAAAAAAAAAAIAAAAAAAAAACAAAAAAA=</HashCode>
+      <FileName>Checkpassword.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Checktable" Collapsed="true">
+    <Position X="4.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAAAACAAAAAIAAAAAEAAAAAAgAAAAAAEQEAAEAAAAAA=</HashCode>
+      <FileName>Checktable.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Clear" Collapsed="true">
+    <Position X="2.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAAAAAAACAAAAAAQAAIAAAAAAAAABQAAA=</HashCode>
+      <FileName>Clear.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Controler" Collapsed="true">
+    <Position X="8" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EMwAAgAIkCBYgEQTAEBAAgYASCAAAioAQKICEogQAAg=</HashCode>
+      <FileName>Control.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Crypto" Collapsed="true">
+    <Position X="2.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAEABAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Crypto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.DAL" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAEAAAAQAAAIAABAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>DAL.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Database" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAgAAAABAAAAAAABAYAAAAAAAAAAAAACAAIIAQAA=</HashCode>
+      <FileName>database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form1" Collapsed="true">
+    <Position X="12.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/y0o0KAkAizJlBQgUJTjBokHjei4zLVEIHgEQBFIKfA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form2" Collapsed="true">
+    <Position X="10.75" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAACAAARAIAACAAAAKAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Form2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form3" Collapsed="true">
+    <Position X="12.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ADQABAAAACAAABAAABKAAAACBAAAAAAAEBAAYAAQAAA=</HashCode>
+      <FileName>Form3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form4" Collapsed="true">
+    <Position X="10.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>jwAgACAAACAABAAAAACgBgECAAAAAIAAABAAABAACBA=</HashCode>
+      <FileName>Form4.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form5" Collapsed="true">
+    <Position X="12.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/0AQAAQAgCIEBhEAAACCAAgCAQAUBCgAAAAoABAAQCA=</HashCode>
+      <FileName>Form5.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form6" Collapsed="true">
+    <Position X="10.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>/gmAAgAEACAARFAwAACAQsAeKOK5AAAAABgMQAAAAHA=</HashCode>
+      <FileName>Form6.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Form7" Collapsed="true">
+    <Position X="12.25" Y="5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>iEAAAAAABCAARQAAAACAAgACAIEAAAgAAAAEAACAIAA=</HashCode>
+      <FileName>Form7.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.FS" Collapsed="true">
+    <Position X="1" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAIAAAIAAAAAEAAAAAAAAAAAAAAAAAAICCAAAA=</HashCode>
+      <FileName>FS.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.GSstring" Collapsed="true">
+    <Position X="3.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAIAACAAAAAAAAAAIAA=</HashCode>
+      <FileName>GSstring.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.Initialization" Collapsed="true">
+    <Position X="8" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAABAAAAEAAAAAAAAAAAAAAAAAAAAAAAQAAABAAAA=</HashCode>
+      <FileName>Initialization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Carrent.registration" Collapsed="true">
+    <Position X="8" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gAAAAAAAAAAQQgAAAAgAAgAAAAAAAAHAQIAAACAAAQA=</HashCode>
+      <FileName>registration.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
